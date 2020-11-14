@@ -1,0 +1,14 @@
+C:\Users\IBRADAT\source\repos\Game1\Game1\bin\Debug\Game1.exe.config
+C:\Users\IBRADAT\source\repos\Game1\Game1\bin\Debug\Game1.exe
+C:\Users\IBRADAT\source\repos\Game1\Game1\bin\Debug\Game1.pdb
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.csprojAssemblyReference.cache
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.Form1.resources
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.Properties.Resources.resources
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.csproj.GenerateResource.cache
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.exe
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.pdb
+C:\Users\IBRADAT\source\repos\Game1\Game1\bin\Debug\Game1.exe.manifest
+C:\Users\IBRADAT\source\repos\Game1\Game1\bin\Debug\Game1.application
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.exe.manifest
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.application
+C:\Users\IBRADAT\source\repos\Game1\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
